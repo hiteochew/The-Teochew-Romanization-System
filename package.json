@@ -1,0 +1,19 @@
+{
+  "name": "the-teochew-romanization-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "潮州話羅馬字注音系統文檔",
+  "author": "潮州話正音正字促進會",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^0.13.1"
+  },
+  "devDependencies": {}
+}
